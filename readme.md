@@ -2,7 +2,7 @@
 
 - 依赖  
     - 前提  
-        - PHP 5.3.3  
+        - PHP 5.3.3以上
     - 安装  
         - composer require "phpdocumentor/phpdocumentor:2.*"  
     - 运行  
